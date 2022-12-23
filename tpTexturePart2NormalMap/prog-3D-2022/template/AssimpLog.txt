@@ -1,0 +1,17 @@
+Info,  T0: Load data/s01c01.blend
+Info,  T0: Found a matching importer for this file format: Blender 3D Importer (http://www.blender3d.org).
+Info,  T0: Import root directory is 'data/'
+Info,  T0: BLEND: Blender version is 2.81 (64bit: true, little endian: true)
+Warn,  T0: <add reason>
+Warn,  T0: BlendDNA: Did not find a field named `colormodel` in structure `Lamp`
+Warn,  T0: BlendDNA: Did not find a field named `totex` in structure `Lamp`
+Warn,  T0: BlendDNA: Did not find a field named `sun_brightness` in structure `Lamp`
+Warn,  T0: <add reason>
+Warn,  T0: BlendDNA: Did not find a field named `*mtpoly` in structure `Mesh`
+Info,  T0: (Stats) Fields read: 17110, pointers resolved: 18, cache hits: 3, cached objects: 13
+Info,  T0: BLEND: Adding default material
+Info,  T0: Entering post processing pipeline
+Info,  T0: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T0: JoinVerticesProcess finished | Verts in: 992 out: 287 | ~71.0686
+Info,  T0: Leaving post processing pipeline
